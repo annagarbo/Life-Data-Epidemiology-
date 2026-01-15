@@ -33,13 +33,14 @@ Overall, the work focuses on conceptual understanding, exploratory modeling, and
 
 ## Repository structure
 
+```
 ├── LDE_project_29ottobre.ipynb # Main notebook with simulations and analysis
 ├── LDE_presentation.pptx # Project presentation slides
-├── network_animation.mp4 # Animation of the network evolution
-├── network_evolution_keep.mp4 # Alternative visualization of dynamics
+├── network_evolution.mp4 # Animation of the network evolution
+├── network_evolution_example.mp4 # Another example visualization of dynamics
 ├── paper/
 │ └── 1408.2701v2.pdf # Reference paper
-
+```
 
 ---
 
